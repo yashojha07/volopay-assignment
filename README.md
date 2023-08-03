@@ -1,5 +1,4 @@
-# project Demo:
-https://volopay-assignment-yash-ojha.netlify.app/
+
 
 # To Run the Project:
 1. Open the project directory 
